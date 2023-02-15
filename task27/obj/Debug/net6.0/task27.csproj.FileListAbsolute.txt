@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\task27.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\task27.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\task27.AssemblyInfo.cs
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\task27.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\bin\Debug\net6.0\task27.exe
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\bin\Debug\net6.0\task27.deps.json
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\bin\Debug\net6.0\task27.runtimeconfig.json
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\bin\Debug\net6.0\task27.dll
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\bin\Debug\net6.0\task27.pdb
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\task27.dll
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\refint\task27.dll
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\task27.pdb
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\task27.genruntimeconfig.cache
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task27\obj\Debug\net6.0\ref\task27.dll

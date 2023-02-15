@@ -1,0 +1,5 @@
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task29\obj\Debug\net6.0\task29.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task29\obj\Debug\net6.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task29\obj\Debug\net6.0\task29.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task29\obj\Debug\net6.0\task29.AssemblyInfo.cs
+C:\Users\1\Desktop\Frontend разработчик\3. Знакомство с языками программирования\Урок 3. Функции. Продолжение\ДЗ. Семинар 4\task29\obj\Debug\net6.0\task29.csproj.CoreCompileInputs.cache
