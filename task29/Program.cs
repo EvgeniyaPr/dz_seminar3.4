@@ -3,11 +3,31 @@
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 // 6, 1, 33 -> [6, 1, 33]
 
-int[] getArray(int size)
+int InputNumber(string str)
 {
-    int[] array = new int[8];
-    array = new Random().Next();
-    return array;
+    System.Console.Write(str);
+    return Convert.ToInt32(Console.ReadLine());
 }
 
-System.Console.WriteLine("["+string.Join(", ", array)+"]");
+int[] getArray(int size, int leftRange, int rightRange)
+{
+    int[] array = new int[size]; 
+    for (int i = 0; i < size; i++)         
+    {                                      
+        array[i] = new Random().Next(leftRange, rightRange); 
+    }
+    return array; 
+}
+
+void PrintArray(int[] array) 
+{
+    System.Console.WriteLine("["+string.Join(", ", array)+"]");
+}
+int arraySize = InputNumber("Введите размер массива: ");
+int leftNum = InputNumber("Нижнаяя граница массива: ");
+int rightNum = InputNumber("Верхняя граница массива: ");
+
+int[] newArray = getArray(arraySize, leftNum, rightNum);
+
+PrintArray(newArray);
+
